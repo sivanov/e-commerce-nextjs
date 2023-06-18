@@ -1,5 +1,28 @@
-# e-commerce-nextjs
+# E-commerce-nextjs
 E-commerce back-End with Yarn, NextJS, TailwindCSS, Axios, MongoDB, Mongoose, ASW S3, Stripe's payments and MailHog
+
+## Screenshots
+
+Notice: **UI is still in progress**
+
+Products page: 
+![](./backend/screenshots/products-page.png)
+
+Categories page:
+![](./backend/screenshots/categories-page.png)
+
+Edit product page:
+![](./backend/screenshots/edit-product-page.png)
+
+
+AWS S3 Bucket and images:
+![](./backend/screenshots/aws-s3-bucket-list-with-objects.png)
+
+Login options with: E-mail, Github Account or Google Account
+![](./backend/screenshots/login-page.png)
+
+MongoDB and MongoDB Compass 
+![](./backend/screenshots/mongoDB-collections.png)
 
 # Clone project 
 ```
@@ -24,7 +47,7 @@ yarn create next-app .
 ```
 
 configuration is:
-```sh
+```sh*
 ✔ Would you like to use TypeScript with this project? … NO
 ✔ Would you like to use ESLint with this project? …  Yes
 ✔ Would you like to use Tailwind CSS with this project? …  Yes
